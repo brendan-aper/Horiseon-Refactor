@@ -1,4 +1,4 @@
-# Hoirseon Digital Marketing
+# Horiseon Digital Marketing
 
 ## Description
 
