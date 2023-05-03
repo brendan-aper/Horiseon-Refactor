@@ -7,6 +7,9 @@ This is a website for Horiseon Digital Marketing. I have updated the HTML and CS
 ## Installation
 To view the website, please visit https://brendan-aper.github.io/week1-horiseon/
 
+![Screenshot 2023-05-02 212207](https://user-images.githubusercontent.com/128443862/235832782-fad21004-b515-4118-b2f9-df2d499b409a.png)
+
+
 ## Usage
 
 This website is designed to help companies companies with their digital marketing needs. I have altered the code to be more accessible and comprehensible for future updates to the site.
