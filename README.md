@@ -5,6 +5,7 @@
 This is a website for Horiseon Digital Marketing. I have updated the HTML and CSS to be easier to read with semantic elements and a cleaner code format. I have also implemented alt id tags to the images of the webpage in order to help screen-reading tools.
 
 ## Installation
+To view the website, please visit https://brendan-aper.github.io/week1-horiseon/
 
 ## Usage
 
